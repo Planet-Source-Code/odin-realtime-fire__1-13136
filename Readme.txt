@@ -1,0 +1,4 @@
+I worked really hard to get this program to work and run at a fast FPS, so please take the time to vote and leave your comments at PSC. I really would like to know what you think of my program. If you have any questions, you can reach me either at the e-mail at PSC or by emailing me directly at erichard@peoplepc.com. So I repeat..Please vote and leave comments.
+
+Known Bugs:
+	For some reason, on some computers the colors are weird. If anyone knows or has an idea of why, let me know. I have tried to fix the problem but to no avail. It doesn't hurt the computer in anyway, just thought I would let you know so if it doesn't look like fire on your computer, don't worry.
